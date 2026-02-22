@@ -1,4 +1,4 @@
-# Ideological-Steering-and-Coordinated-Inauthentic-Behavior-in-the-Agent-Assisted-Era
+# Ideological Steering and Coordinated Inauthentic Behavior in the Agent-Assisted Era
 ## Baseline Agent Workflow
 <img width="2816" height="1536" alt="Baseline Agent Workflow_Image" src="https://github.com/user-attachments/assets/6d695797-035d-4c28-9d84-5db176268fbc" />
 
